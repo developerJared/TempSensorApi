@@ -1,0 +1,11 @@
+{
+  "apps" : [
+    {
+      "name"      : "sensor_api",
+      "script"    : "index.js",
+      "env": {
+        "config_path": "./config.json"
+      }
+    }
+  ]
+}
